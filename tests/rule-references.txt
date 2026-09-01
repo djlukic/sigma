@@ -1681,6 +1681,7 @@ https://github.com/topotam/PetitPotam
 https://github.com/topotam/PetitPotam/blob/d83ac8f2dd34654628c17490f99106eb128e7d1e/PetitPotam/PetitPotam.cpp
 https://github.com/trustedsec/SysmonCommunityGuide/blob/adcdfee20999f422b974c8d4149bf4c361237db7/chapters/file-stream-creation-hash.md
 https://github.com/Twigonometry/Cybersecurity-Notes/blob/c875b0f52df7d2c7a870e75e1f0c2679d417931d/Writeups/Hack%20the%20Box/Boxes/Optimum/10%20-%20Website.md
+https://github.com/TwoSevenOneT/WSASS
 https://github.com/Tylous/ZipExec
 https://github.com/tyranid/DotNetToJScript
 https://github.com/usnistgov/macos_security/blob/932a51f3e819dd3e02ebfcf3ef433cfffafbe28b/rules/os/os_firmware_password_require.yaml
@@ -1925,6 +1926,7 @@ https://learn.microsoft.com/en-us/azure/developer/dev-tunnels/security
 https://learn.microsoft.com/en-us/azure/dns/dns-zones-records
 https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations
 https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftauthorization
+https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftkubernetes
 https://learn.microsoft.com/en-us/defender-cloud-apps/anomaly-detection-policy
 https://learn.microsoft.com/en-us/defender-cloud-apps/policy-template-reference
 https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction
@@ -2606,6 +2608,7 @@ https://persistence-info.github.io/Data/windowsterminalprofile.html
 https://persistence-info.github.io/Data/wpbbin.html
 https://peterjson.medium.com/reproducing-the-proxyshell-pwn2own-exploit-49743a4ea9a1
 https://petrusviet.medium.com/dancing-on-the-architecture-of-vmware-workspace-one-access-eng-ad592ae1b6dd
+https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1388
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472
@@ -2714,6 +2717,7 @@ https://research.splunk.com/cloud/e155876a-6048-11eb-ae93-0242ac130002/
 https://research.splunk.com/endpoint/07921114-6db4-4e2e-ae58-3ea8a52ae93f/
 https://research.splunk.com/endpoint/10399c1e-f51e-11eb-b920-acde48001122/
 https://research.splunk.com/endpoint/7215831c-8252-4ae3-8d43-db588e82f952
+https://research.splunk.com/endpoint/76406a0f-f5e0-4167-8e1f-337fdc0f1b0c/
 https://research.splunk.com/endpoint/linux_doas_conf_file_creation/
 https://research.splunk.com/endpoint/linux_doas_tool_execution/
 https://research.splunk.com/endpoint/windows_possible_credential_dumping/
@@ -2974,6 +2978,7 @@ https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-comp
 https://thedfirreport.com/2024/06/10/icedid-brings-screenconnect-and-csharp-streamer-to-alphv-ransomware-deployment/#detections
 https://thedfirreport.com/2024/09/30/nitrogen-campaign-drops-sliver-and-ends-with-blackcat-ransomware/
 https://thedfirreport.com/2025/06/30/hide-your-rdp-password-spray-leads-to-ransomhub-deployment/
+https://thedfirreport.com/2026/02/23/apache-activemq-exploit-leads-to-lockbit-ransomware/
 https://thehackernews.com/2023/10/experts-warn-of-severe-flaws-affecting.html
 https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html
 https://thehackernews.com/2024/03/github-rolls-out-default-secret.html
@@ -3504,6 +3509,7 @@ https://web.archive.org/web/20200302083912/https://www.accenture.com/t20180127T0
 https://web.archive.org/web/20200329173843/https://p16.praetorian.com/blog/how-to-use-kerberoasting-t1208-for-privilege-escalation
 https://web.archive.org/web/20200419024230/https://blog.dylan.codes/evading-sysmon-and-windows-event-logging/
 https://web.archive.org/web/20200530031708/https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
+https://web.archive.org/web/20200601000524/https://cyberx-labs.com/blog/gangnam-industrial-style-apt-campaign-targets-korean-industrial-companies/
 https://web.archive.org/web/20200618080300/https://www.verfassungsschutz.de/embed/broschuere-2020-06-bfv-cyber-brief-2020-01.pdf
 https://web.archive.org/web/20200903194959/https://twitter.com/djmtshepana/status/1301608169496612866
 https://web.archive.org/web/20200925032237/https://threathunterplaybook.com/notebooks/windows/02_execution/WIN-190410151110.html
@@ -3542,6 +3548,7 @@ https://web.archive.org/web/20230726144748/https://blog.thickmints.dev/mintsight
 https://web.archive.org/web/20231210115125/http://www.xuetr.com/
 https://web.archive.org/web/20231221193106/https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://web.archive.org/web/20231230220738/https://www.lunasec.io/docs/blog/log4j-zero-day/
+https://web.archive.org/web/20250904191633/https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/
 https://wikileaks.org/vault7/#Pandemic
 https://wildptr.io/winrar-cve-2023-40477-poc-new-vulnerability-winrar-security-research/
 https://winaero.com/enable-openssh-server-windows-10/
@@ -3671,6 +3678,7 @@ https://www.crowdstrike.com/en-us/blog/4-ways-adversaries-hijack-dlls/
 https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 https://www.crushftp.com/crush11wiki/Wiki.jsp?page=Update
 https://www.cve.org/CVERecord?id=CVE-2024-1708
+https://www.cve.org/CVERecord?id=CVE-2024-1709
 https://www.cyberbit.com/blog/endpoint-security/com-hijacking-windows-overlooked-security-vulnerability/
 https://www.cyberbit.com/endpoint-security/dtrack-apt-malware-found-in-nuclear-power-plant/
 https://www.cybereason.com/blog/cybereason-vs.-blackcat-ransomware
@@ -3711,6 +3719,7 @@ https://www.elastic.co/guide/en/security/current/linux-restricted-shell-breakout
 https://www.elastic.co/guide/en/security/current/microsoft-iis-connection-strings-decryption.html
 https://www.elastic.co/guide/en/security/current/microsoft-iis-service-account-password-dumped.html
 https://www.elastic.co/guide/en/security/current/potential-invoke-mimikatz-powershell-script.html#potential-invoke-mimikatz-powershell-script
+https://www.elastic.co/guide/en/security/current/potential-non-standard-port-ssh-connection.html
 https://www.elastic.co/guide/en/security/current/potential-remote-desktop-tunneling-detected.html
 https://www.elastic.co/guide/en/security/current/privilege-escalation-via-named-pipe-impersonation.html
 https://www.elastic.co/guide/en/security/current/remote-file-copy-to-a-hidden-share.html
@@ -3738,6 +3747,7 @@ https://www.elastic.co/security-labs/stopping-vulnerable-driver-attacks
 https://www.electronjs.org/docs/latest/tutorial/native-code-and-electron
 https://www.elevenforum.com/t/video-guide-how-to-completely-disable-microsoft-defender-antivirus.14608/page-2
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
+https://www.endorlabs.com/learn/shai-hulud-2-malware-campaign-targets-github-and-cloud-credentials-using-bun-runtime
 https://www.epicturla.com/blog/sysinturla
 https://www.experts-exchange.com/questions/27800944/EventID-18456-Failed-to-open-the-explicitly-specified-database.html
 https://www.exploit-db.com/exploits/19525
@@ -3769,6 +3779,7 @@ https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/w
 https://www.first.org/resources/papers/conf2017/Advanced-Incident-Detection-and-Threat-Hunting-using-Sysmon-and-Splunk.pdf
 https://www.forensafe.com/blogs/runmrukey.html
 https://www.fortalicesolutions.com/posts/hiding-behind-the-front-door-with-azure-domain-fronting
+https://www.fortiguard.com/psirt/FG-IR-24-535
 https://www.fortiguard.com/threat-signal-report/4718?s=09
 https://www.fortinet.com/blog/threat-research/enter-the-darkgate-new-cryptocurrency-mining-and-ransomware-campaign
 https://www.fortinet.com/blog/threat-research/konni-campaign-distributed-via-malicious-document
@@ -3779,6 +3790,7 @@ https://www.fortinet.com/blog/threat-research/ursnif-variant-spreading-word-docu
 https://www.fortinet.com/content/dam/fortinet/assets/analyst-reports/ar-qakbot.pdf
 https://www.fortypoundhead.com/showcontent.asp?artid=24022
 https://www.fox-it.com/en/news/whitepapers/operation-wocao-shining-a-light-on-one-of-chinas-hidden-hacking-groups/
+https://www.geeksforgeeks.org/how-to-kill-processes-on-the-linux-desktop-with-xkill/
 https://www.giac.org/paper/gcih/266/review-ftp-protocol-cyber-defense-initiative/102802
 https://www.glitch-cat.com/p/green-lambert-and-attack
 https://www.gnu.org/software/wget/manual/wget.html
@@ -4328,6 +4340,7 @@ https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/
 https://www.welivesecurity.com/2020/01/31/winnti-group-targeting-universities-hong-kong/
 https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/
 https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/
+https://www.welivesecurity.com/2020/07/16/mac-cryptocurrency-trading-application-rebranded-bundled-malware/
 https://www.welivesecurity.com/2022/01/18/donot-go-do-not-respawn/
 https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
 https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/
